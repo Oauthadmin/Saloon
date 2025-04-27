@@ -1,0 +1,11 @@
+### Saloon Release - Csaloon
+#### What's New
+- Initial setup of the project with base files.
+- Added foundational files:
+  - `.gitignore` to exclude unnecessary files.
+  - `LICENSE` to specify the Apache License 2.0.
+  - `README.md` as a placeholder for project details.
+
+#### Notes
+- This is the first release and includes basic setup only.
+- Stay tuned for upcoming features in future releases.

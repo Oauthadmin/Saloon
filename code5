@@ -1,0 +1,15 @@
+# Saloon
+
+## Overview
+Saloon is a project designed to [insert purpose of the project]. It aims to solve [problem/niche] by offering [key features]. 
+
+## Features
+- **Easy Navigation**: Navigate through the app with a clean and intuitive interface.
+- **Customizable Options**: Tailor the experience to suit your needs.
+- **Scalability**: Designed to grow with your needs.
+
+## Installation
+To set up Saloon locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Oauthadmin/Saloon.git

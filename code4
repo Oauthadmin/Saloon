@@ -1,0 +1,15 @@
+---
+
+### 4. **Create a Changelog**
+You can maintain a `CHANGELOG.md` file to document all changes for each release. This helps users understand the evolution of your project.
+
+#### Example CHANGELOG.md:
+```markdown
+# Changelog
+
+## [Csaloon] - YYYY-MM-DD
+### Added
+- Initial setup with `.gitignore`, `LICENSE`, and `README.md`.
+
+### Notes
+- This is the first release with foundational files.

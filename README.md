@@ -1,4 +1,16 @@
-<!DOCTYPE html>
+<!### Saloon Release - Csaloon
+#### What's New
+- Initial project setup with the following files:
+  - `README.md`: Basic project overview and placeholders.
+  - `LICENSE`: Apache License 2.0 for open-source distribution.
+  - `.gitignore`: Template for AL projects.
+
+#### Notes
+- This is the foundational release and includes minimal setup.
+- Future updates will include additional features and enhancements.
+
+#### Assets
+No additional assets are attached to this release.DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
